@@ -1,5 +1,11 @@
 ## Hi there 👋
-dsdasdada
+ My name is John Matthew Mamaril, but people call me Matsu. I was born on September 21, 2002, and I currently live in Barangay San Antonio, Los Baños, Laguna.
+
+I am a second-year student at Laguna State Polytechnic University – Sta. Cruz Campus, taking up a Bachelor of Science in Information Technology (BSIT).
+
+In my free time, I enjoy playing computer games, performing in Battle of the Bands, and also playing basketball and football.
+
+My main goal is to finish my degree and build a successful career in the field I've chosen.
 <!--
 **johnmatthewmamaril/johnmatthewmamaril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
